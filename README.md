@@ -43,7 +43,7 @@
 ---
 
 ### 📖 Leituras e Interesses
-Sou um leitor ávido e gosto de unir **tecnologia, ciência, conhecimento técnico e biografias**.  
+**tecnologia, ciência, conhecimento técnico e biografias**.  
 Alguns livros que já li:
 
 - *Pai Rico, Pai Pobre*  
@@ -64,7 +64,7 @@ Alguns livros que já li:
 - *Desenvolvimento Web com Django 3 Cookbook*  
 - *Farmacologia para Nossas Vidas*  
 
-📚 (Ainda há muitos livros a acrescentar aqui. Estou trabalhando nisso, acredite são muitos !!!)
+📚 (Ainda há muitos livros a acrescentar aqui. Estou trabalhando nisso — acredite, são muitos!)
 
 ---
 
