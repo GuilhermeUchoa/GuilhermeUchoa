@@ -1,23 +1,13 @@
-# 👋 Olá, eu sou o Guilherme Uchoa
+# 👋 Bem vindo, sou o Guilherme Uchoa
 
 💻 Acadêmico em **Análise e Desenvolvimento de Sistemas**  
-🧬 **Biomédico** por formação, apaixonado por **tecnologia, ciência e aprendizado constante**  
+🧬 **Biomédico** por formação, apaixonado por **tecnologia e ciência **  
 
 ---
 
 ### 💼 Projetos em Destaque
 
-🔹 [**Dashboard de Investimentos**](https://github.com/guilhermeuchoa/invest-dashboard)  
-Aplicação em **Django + Pandas + Angular** para exibir métricas financeiras e rebalancear carteira de investimentos.
 
-🔹 [**App de Estudos**](https://github.com/guilhermeuchoa/study-tracker)  
-Aplicativo criado com **Angular e TinyDB**, que registra matérias estudadas, tempo e progresso com visualização em gráficos.
-
-🔹 [**API Clínica Biomédica**](https://github.com/guilhermeuchoa/biomed-api)  
-API REST com **Flask** para registro de exames e análises clínicas simuladas.
-
-🔹 [**Portfólio Web Pessoal**](https://github.com/guilhermeuchoa/portfolio)  
-Site pessoal desenvolvido em **HTML, CSS e JavaScript**, com design limpo e responsivo.
 
 ---
 
@@ -40,7 +30,9 @@ Site pessoal desenvolvido em **HTML, CSS e JavaScript**, com design limpo e resp
 ---
 
 ### 🧬 Conhecimentos em Biomedicina
-Fisiologia • Farmacologia • Bioquímica • Análises Clínicas
+• Análises Clínicas • Fisiologia • Farmacologia • Bioquímica  • Patologia
+• ![Sou patologista clínico](https://cdn-icons-png.flaticon.com/512/1012/1012677.png)
+
 
 ---
 
