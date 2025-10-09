@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Guilherme Uchoa
+# 👋 Bem vindo, sou Guilherme Uchoa
 
 💻 Acadêmico em **Análise e Desenvolvimento de Sistemas**  
 🧬 **Biomédico patologista clínico**, apaixonado por **tecnologia, ciência e aprendizado constante**  
