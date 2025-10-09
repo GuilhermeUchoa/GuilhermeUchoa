@@ -1,7 +1,8 @@
 # 👋 Bem vindo, sou Guilherme Uchoa
 
 💻 Acadêmico em **Análise e Desenvolvimento de Sistemas**  
-🧬 **Biomédico patologista clínico**, apaixonado por **tecnologia, ciência e aprendizado constante**  
+🧬 **Biomédico patologista clínico** <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/9cf43075-ca10-4340-85c5-d03ed36c0a6d" />
+, apaixonado por **tecnologia, ciência e aprendizado constante**  
 
 ---
 
