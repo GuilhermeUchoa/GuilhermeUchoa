@@ -1,7 +1,7 @@
-# 👋 Bem vindo, sou o Guilherme Uchoa
+# 👋 Olá, eu sou o Guilherme Uchoa
 
 💻 Acadêmico em **Análise e Desenvolvimento de Sistemas**  
-🧬 **Biomédico** por formação, apaixonado por **tecnologia e ciência **  
+🧬 **Biomédico patologista clínico**, apaixonado por **tecnologia, ciência e aprendizado constante**  
 
 ---
 
@@ -30,21 +30,19 @@
 ---
 
 ### 🧬 Conhecimentos em Biomedicina
-• Análises Clínicas • Fisiologia • Farmacologia • Bioquímica  • Patologia
-• ![Sou patologista clínico](https://cdn-icons-png.flaticon.com/512/1012/1012677.png)
-
+• Fisiologia • Farmacologia • Bioquímica • Patologia • Análises Clínicas • Genética • Imunologia • Fisico-Quimica
 
 ---
 
 ### 📚 Cursos e Formação
 🏅 **Full Stack Developer – SENAI** (feito duas vezes para reforço prático)  
-🎓 **Biomedicina**  
-🎓 **Acadêmico em Análise e Desenvolvimento de Sistemas**
+🎓 **Biomedicina - UCB**  
+🎓 **Acadêmico em Análise e Desenvolvimento de Sistemas - UCB**
 
 ---
 
 ### 📖 Leituras e Interesses
-Sou um leitor ávido e gosto de unir **tecnologia, ciência e comportamento humano**.  
+Sou um leitor ávido e gosto de unir **tecnologia, ciência, conhecimento técnico e biografias**.  
 Alguns livros que já li:
 
 - *Pai Rico, Pai Pobre*  
@@ -65,7 +63,7 @@ Alguns livros que já li:
 - *Desenvolvimento Web com Django 3 Cookbook*  
 - *Farmacologia para Nossas Vidas*  
 
-📚 (Lista em constante atualização...)
+📚 (Ainda há muitos livros a acrescentar aqui. Estou trabalhando nisso, acredite são muitos !!!)
 
 ---
 
@@ -81,13 +79,11 @@ Alguns livros que já li:
 - Aprendo rápido e gosto de desafios  
 - Curioso por novas tecnologias  
 - Focado em construir soluções simples e funcionais  
-- Gosto de unir ciência, tecnologia e aprendizado contínuo  
-
-> “A tecnologia é o meio que encontrei de transformar curiosidade em impacto real.”
+- Gosto de unir ciência, tecnologia 
 
 ---
 
 ### 🌎 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-silva-uchoa-b70536136/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guilhermeuchoa)
-📫 **Contato:** guilhermeuchoa.dev@gmail.com
+📫 **Contato:** guilherme.s.uchoa@gmail.com
