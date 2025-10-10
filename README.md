@@ -71,7 +71,8 @@ Alguns livros que já li:
 - *O Livro da Economia*  
 - *30 Projetos com Arduino*  
 - *Desenvolvimento Web com Django 3 Cookbook*  
-- *Farmacologia para Nossas Vidas*  
+- *Farmacologia para Nossas Vidas*
+- *Guerra dos chips*  
 
 📚 (Ainda há muitos livros a acrescentar aqui. Estou trabalhando nisso — acredite, são muitos!)
 
