@@ -9,6 +9,7 @@
 ### 💼 Projetos em Destaque
 
 
+![Learning English With Movies](https://github.com/GuilhermeUchoa/LearningEnglishWithMovies)
 
 ---
 
