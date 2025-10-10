@@ -9,7 +9,9 @@
 ### 💼 Projetos em Destaque
 
 
-![Learning English With Movies](https://github.com/GuilhermeUchoa/LearningEnglishWithMovies)
+🔹 [**Learning English With Movies**](https://github.com/GuilhermeUchoa/LearningEnglishWithMovies)  
+Aplicação em **Python** para realizar cortes de filmes, organiza-los para a pratica de ingles com cenas de filmes e series.
+
 
 ---
 
