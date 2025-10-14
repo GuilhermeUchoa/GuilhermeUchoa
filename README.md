@@ -43,7 +43,7 @@ Aplicação em **Python** para realizar cortes de filmes, organiza-los para a pr
 ---
 
 ### 🧬 Conhecimentos em Biomedicina
-• Fisiologia • Farmacologia • Bioquímica • Patologia • Análises Clínicas • Genética • Imunologia • Fisico-Quimica
+• Análises Clínicas • Bioquímica • Patologia • Hematologia • Fluidos Biologicos • Parasitologia • Fisiologia • Farmacologia • Genética • Imunologia • Fisico-Quimica
 
 ---
 
