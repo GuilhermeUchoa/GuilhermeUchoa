@@ -1,12 +1,12 @@
-# 👋 Bem vindo, sou Guilherme Uchoa
+# Bem vindo, sou Guilherme Uchoa
 
-💻 Acadêmico em **Análise e Desenvolvimento de Sistemas**  
-🧬 **Biomédico patologista clínico** <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/9cf43075-ca10-4340-85c5-d03ed36c0a6d" />
+Acadêmico em **Análise e Desenvolvimento de Sistemas**  
+**Biomédico patologista clínico** <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/9cf43075-ca10-4340-85c5-d03ed36c0a6d" />
 , apaixonado por **tecnologia, ciência e aprendizado constante**  
 
 ---
 
-### 💼 Projetos em Destaque
+### Projetos em Destaque
 
 
 🔹 [**Learning English With Movies**](https://github.com/GuilhermeUchoa/LearningEnglishWithMovies)  
@@ -15,7 +15,7 @@ Aplicação em **Python** para realizar cortes de filmes, organiza-los para a pr
 
 ---
 
-### 🚀 Tecnologias que domino
+### Tecnologias que domino
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -30,27 +30,27 @@ Aplicação em **Python** para realizar cortes de filmes, organiza-los para a pr
 
 ---
 
-### 👶 Engatinhando
+### Engatinhando
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ---
 
-### 🧠 Atualmente aprendendo
+### Atualmente aprendendo
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 ---
 
-### 🧬 Conhecimentos em Biomedicina
+### Conhecimentos em Biomedicina
 • Análises Clínicas • Bioquímica • Patologia • Hematologia • Fluidos Biologicos • Parasitologia • Fisiologia • Farmacologia • Genética • Imunologia • Fisico-Quimica
 
 ---
 
-### 📚 Cursos e Formação
-🏅 **Full Stack Developer – SENAI** (C# && Angular)
-🎓 **Biomedicina - UCB**  
-🎓 **Acadêmico em Análise e Desenvolvimento de Sistemas - UCB**
+### Cursos e Formação
+**Full Stack Developer – SENAI** (C# && Angular)
+**Biomedicina - UCB**  
+**Acadêmico em Análise e Desenvolvimento de Sistemas - UCB**
 
 ---
 
@@ -78,11 +78,11 @@ Alguns livros que já li:
 - *Guerra dos chips*
 - *Roube como um artista*
 
-📚 (Ainda há muitos livros a acrescentar aqui. Estou trabalhando nisso — acredite, são muitos!)
+(Ainda há muitos livros a acrescentar aqui. Estou trabalhando nisso — acredite, são muitos!)
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermeuchoa&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeuchoa&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=guilhermeuchoa&theme=tokyonight)
@@ -90,7 +90,7 @@ Alguns livros que já li:
 
 ---
 
-### 🌱 Valores e Mentalidade
+### Valores e Mentalidade
 - Aprendo rápido e gosto de desafios  
 - Curioso por novas tecnologias  
 - Focado em construir soluções simples e funcionais  
@@ -98,7 +98,7 @@ Alguns livros que já li:
 
 ---
 
-### 🌎 Onde me encontrar
+### Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-silva-uchoa-b70536136/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guilhermeuchoa)
-📫 **Contato:** guilherme.s.uchoa@gmail.com
+**Contato:** guilherme.s.uchoa@gmail.com
