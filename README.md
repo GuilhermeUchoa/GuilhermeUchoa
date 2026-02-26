@@ -77,6 +77,7 @@ Alguns livros que já li:
 - *Farmacologia para Nossas Vidas*
 - *Guerra dos chips*
 - *Roube como um artista*
+- *História da Computação*
 
 (Ainda há muitos livros a acrescentar aqui. Estou trabalhando nisso — acredite, são muitos!)
 
